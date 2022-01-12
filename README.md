@@ -1,6 +1,6 @@
 # WildFly
 
-This is a group of WildFly Docker files with versions for HyperFrame Open Edition.
+This is a group of WildFly Docker files with versions for HyperFrame.
 
 ### Prerequisites
 
